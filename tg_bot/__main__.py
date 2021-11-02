@@ -20,13 +20,13 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 hi {}, My name is EO GROUP MANAGER BOT! if you have any questions about how to use me please give me /help... 
 
-I Am A Power Ful Group Manager Bot Maintained by ELECTRO_444.
+I Am A Power Ful Group Manager Bot Maintained by ELECTRO444.
 
 My future updates will be put into This Channel - @eofamilyff & My Support Group @eosupportff.
 
 For more commands click /help...
 
-Bot Owner @ELECTRO_444
+Bot Owner @ELECTRO444
 
 """
 
