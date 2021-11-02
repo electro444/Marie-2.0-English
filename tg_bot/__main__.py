@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hi {}, My name is EO GROUP MANAGER BOT! if you have any questions about how to use me please give me /help... 
+Hi {}, My name is EO GROUP MANAGER BOT! if you have any questions about how to use me please give me /help... 
 
 I Am A Power Ful Group Manager Bot Maintained by ELECTRO444.
 
