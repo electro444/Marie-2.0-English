@@ -18,23 +18,23 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, My name is *God Of Pikachu* if you have any questions about how to use me please give me /help... 
+Hi {}, My name is *EO MANAGER* if you have any questions about how to use me please give me /help... 
 
 I Am A Power Ful Group Manager Bot Maintained by [My Owner](@ELECTRO_444).
 
-My future updates will be put into This Channel - @GodOfPikachuGroup& My Support Group @GodOfPikachuSupport.
+My future updates will be put into This Channel - @eofamily & My Support Group @eosupportff.
 
 For more commands click /help...
 
-[ADD ME IN YOUR GROUP](https://t.me/God_Of_Pikachu_Bot?startgroup=true
+[ADD ME IN YOUR GROUP](https://t.me/EO_MANAGER_BOT?startgroup=true
 
-Bot Owner @ELECTRO_444
+[My Master](@ELECTRO_444)
 
 """
 
 HELP_STRINGS = """
 
-Hello! my name *God Of Pikachu*.
+Hello! my name *EO MANAGER*.
 
 *Main* available commands:
  - /start: Start the bot...
